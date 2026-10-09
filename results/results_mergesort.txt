@@ -1,0 +1,30 @@
+--- File: ../data/test_01.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1176.0000 ms (1.1760 s)
+--- File: ../data/test_02.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1066.0000 ms (1.0660 s)
+--- File: ../data/test_03.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1543.0000 ms (1.5430 s)
+--- File: ../data/test_04.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1567.0000 ms (1.5670 s)
+--- File: ../data/test_05.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1551.0000 ms (1.5510 s)
+--- File: ../data/test_06.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1578.0000 ms (1.5780 s)
+--- File: ../data/test_07.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1539.0000 ms (1.5390 s)
+--- File: ../data/test_08.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1544.0000 ms (1.5440 s)
+--- File: ../data/test_09.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1561.0000 ms (1.5610 s)
+--- File: ../data/test_10.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Merge Sort): 1556.0000 ms (1.5560 s)

@@ -1,0 +1,30 @@
+--- File: ../data/test_01.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 158.0000 ms (0.1580 s)
+--- File: ../data/test_02.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 270.0000 ms (0.2700 s)
+--- File: ../data/test_03.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 748.0000 ms (0.7480 s)
+--- File: ../data/test_04.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 764.0000 ms (0.7640 s)
+--- File: ../data/test_05.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 373.0000 ms (0.3730 s)
+--- File: ../data/test_06.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 770.0000 ms (0.7700 s)
+--- File: ../data/test_07.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 746.0000 ms (0.7460 s)
+--- File: ../data/test_08.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 773.0000 ms (0.7730 s)
+--- File: ../data/test_09.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 858.0000 ms (0.8580 s)
+--- File: ../data/test_10.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (Quick Sort): 750.0000 ms (0.7500 s)

@@ -1,0 +1,30 @@
+--- File: ../data/test_01.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 218.0000 ms (0.2180 s)
+--- File: ../data/test_02.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 176.0000 ms (0.1760 s)
+--- File: ../data/test_03.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 477.0000 ms (0.4770 s)
+--- File: ../data/test_04.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 562.0000 ms (0.5620 s)
+--- File: ../data/test_05.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 567.0000 ms (0.5670 s)
+--- File: ../data/test_06.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 532.0000 ms (0.5320 s)
+--- File: ../data/test_07.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 600.0000 ms (0.6000 s)
+--- File: ../data/test_08.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 637.0000 ms (0.6370 s)
+--- File: ../data/test_09.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 564.0000 ms (0.5640 s)
+--- File: ../data/test_10.txt ---
+So luong phan tu: 1000000
+Thoi gian sap xep (std::sort): 561.0000 ms (0.5610 s)

@@ -1,0 +1,15 @@
+# Binaries and build artifacts
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+vc*.pdb
+
+# IDE and temporary files
+.vscode/
+.vs/
+*/.vs/
+*.layout
+*.depend
