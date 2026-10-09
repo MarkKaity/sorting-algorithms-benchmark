@@ -364,3 +364,5 @@ Dựa vào kết quả đo đạc thực tế trên 10 bộ dữ liệu (1.000.0
 2. **QuickSort (Randomized / Median-of-three):** Thể hiện tốc độ rất ấn tượng (trung bình **621.0 ms**). Đặc biệt trên Dãy 1 (tăng dần - 158.0 ms) và Dãy 2 (giảm dần - 270.0 ms), QuickSort chạy nhanh vượt trội nhờ kỹ thuật chọn chốt (pivot) tối ưu, tránh được hiện tượng phân chia lệch nghèo nàn.
 3. **MergeSort:** Thời gian thực thi rất ổn định, dao động quanh mức 1540 - 1570 ms (trung bình **1468.1 ms**). Do bản chất Chia để trị, nó luôn thực hiện đủ số phép chia và trộn với độ phức tạp $O(N \log N)$ trong mọi trường hợp. Nhược điểm chính là tiêu tốn thêm không gian bộ nhớ phụ $O(N)$ để lưu mảng tạm thời khi trộn.
 4. **HeapSort:** Có thời gian thực thi trung bình chậm nhất là **1701.3 ms**. Mặc dù đảm bảo độ phức tạp $O(N \log N)$ và không tốn bộ nhớ phụ $O(N)$ như MergeSort, HeapSort vẫn chậm hơn QuickSort và std::sort do các thao tác truy xuất phần tử trên cây Max-Heap có tính liên cục bộ bộ nhớ đệm (cache locality) kém hơn.
+#   s o r t i n g - a l g o r i t h m s - b e n c h m a r k  
+ 
